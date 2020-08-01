@@ -61,7 +61,7 @@
     <Folder Include="StoreProcedure" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="Table\Table1.sql" />
+    <Build Include="Table\User.sql" />
     <Build Include="StoreProcedure\UspCreateUser.sql" />
     <Build Include="StoreProcedure\UspDeleteUser.sql" />
     <Build Include="StoreProcedure\UspGetUser.sql" />
